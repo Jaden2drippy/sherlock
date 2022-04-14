@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 """
-Sherlock: Find Usernames Across Social Networks Module
+Sherlock:  its_urgirl188
 
 This module contains the main logic to search for usernames at social
 networks.
@@ -9,7 +9,7 @@ networks.
 
 import csv
 import os
-import platform
+import platform snapchat
 import re
 import sys
 from argparse import ArgumentParser, RawDescriptionHelpFormatter
